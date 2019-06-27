@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreMultipleUploadAPI.WebApi", "AspNetCoreMultipleUploadAPI.WebApi\AspNetCoreMultipleUploadAPI.WebApi.csproj", "{DBCB3AE9-E9C3-42C5-A309-3C71985847C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreMultipleUploadAPI.ConsoleApp", "AspNetCoreMultipleUploadAPI.ConsoleApp\AspNetCoreMultipleUploadAPI.ConsoleApp.csproj", "{DBBD2C56-3C47-4910-B24A-399E9BDF7539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCB3AE9-E9C3-42C5-A309-3C71985847C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCB3AE9-E9C3-42C5-A309-3C71985847C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCB3AE9-E9C3-42C5-A309-3C71985847C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCB3AE9-E9C3-42C5-A309-3C71985847C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBBD2C56-3C47-4910-B24A-399E9BDF7539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBD2C56-3C47-4910-B24A-399E9BDF7539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBD2C56-3C47-4910-B24A-399E9BDF7539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBD2C56-3C47-4910-B24A-399E9BDF7539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8AD15F7-103F-42D8-B354-93F8C152C318}
+	EndGlobalSection
+EndGlobal
