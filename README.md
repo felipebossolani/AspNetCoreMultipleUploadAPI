@@ -9,5 +9,5 @@ Descrevi no Medium um passo a passo de como fazer esse upload. [Link
 
 ## Dúvidas
 
-Voê pode me contatar aqui, no Medium ou no meu [LinkedIn](https://www.linkedin.com/in/felipebossolani/)
+Você pode me contatar aqui, no [Medium](https://medium.com/) ou no meu [LinkedIn](https://www.linkedin.com/in/felipebossolani/)
 
