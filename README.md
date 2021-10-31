@@ -11,3 +11,5 @@ Descrevi no Medium um passo a passo de como fazer esse upload. [Link
 
 Você pode me contatar aqui, no [Medium](https://medium.com/) ou no meu [LinkedIn](https://www.linkedin.com/in/felipebossolani/)
 
+O medium não tenho utilizado muito. Respondo diariamente no LinkedIn
+
